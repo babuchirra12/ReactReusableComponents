@@ -1,6 +1,7 @@
 // import Login from "../Components/Login/Login";
 // import UseLogin from "../Components/Login/useLogin";
-import SideNavBarOnclick from "../Components/SideNavbar/sideNavBarOnclick"
+// import SideNavBarOnclick from "../Components/SideNavbar/sideNavBarOnclick";
+import FormikTest from '../Components/ReactFormikCommon/FormikTest'
 function Routing() {
   // const {
   //   loginData,
@@ -27,7 +28,8 @@ function Routing() {
         loginError={loginError}
         error={error}
       /> */}
-<SideNavBarOnclick/>
+{/* <SideNavBarOnclick/> */}
+{/* <FormikTest/> */}
     </div>
   );
 }
